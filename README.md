@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Evo04Taser
 - 👀 I’m interested in Space
-- 🌱 I’m currently learning to program on Js language
+- 🌱 I’m currently learning to program on Java and JavaScript language
 - 💞️ I’m looking to collaborate on an Expert Mindustry modder
 - 📫 How to reach me: ynomarie@gmail.com
 
