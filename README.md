@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Evo04Taser
+- 👋 Hi, I’m @Evo04Taser(Known as "Eatyourdust" in Reddit)
 - 👀 I’m interested in Space
 - 🌱 I’m currently learning to program on Java and JavaScript language
 - 💞️ I’m looking to collaborate on an Expert Mindustry modder
